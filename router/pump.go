@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/fsouza/go-dockerclient"
+	"github.com/resin-io-playground/go-dockerclient"
 )
 
 func init() {
