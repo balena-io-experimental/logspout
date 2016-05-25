@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.3
+FROM resin/i386-alpine:3.3
 ENTRYPOINT ["/bin/logspout"]
 VOLUME /mnt/routes
 EXPOSE 80
