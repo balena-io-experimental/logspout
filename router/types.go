@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fsouza/go-dockerclient"
+	"github.com/resin-io-playground/go-dockerclient"
 )
 
 // Extension type for adding HTTP endpoints
